@@ -1,6 +1,6 @@
 ## Power BI traning projects
 
-This repository is a portfolio containing the projects created during the Power BI traning.
+This repository is a portfolio containing the projects created during my Power BI traning.
 
 Download to view.
 
